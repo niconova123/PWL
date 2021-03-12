@@ -1,6 +1,6 @@
+<html>
 <head>
 <title>A11.2019.12292</title>
-<link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
 <?php
