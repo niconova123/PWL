@@ -1,7 +1,6 @@
 <html>
 <head>
 <title>Menghitung Bilangan Faktorial menggunakan Do While pada PHP</title>
-<link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
 <?php
