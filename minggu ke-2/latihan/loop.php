@@ -6,16 +6,12 @@ for ($i = 1; $i <=5; $i++){
     }
     echo "<br>";
 }
-<<<<<<< HEAD
-$i= 1
-while ($i<=5){
-    echo $i*$i;
-    $i+=1;
 
-}
+
+
     
-?>
-=======
+
+
 // pake while //
 $i= 1;
 while ($i<=5){
@@ -30,4 +26,4 @@ while ($i<=5){
 }
     
 ?>
->>>>>>> b50823f0b405a4de9a6e4f791a6ba0b8d947a1f1
+
