@@ -33,7 +33,7 @@
                   <li class="sub-menu">
                       <a href="javascript:;" >
                           <i class="fa fa-desktop"></i>
-                          <span>Transaksi <span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
+                          <span>TRANSAKSI <span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
                       </a>
                       <ul class="sub">
                           <li><a  href="index.php?page=jual">Transaksi Jual</a></li>
@@ -43,7 +43,7 @@
                   <li class="sub-menu">
                       <a href="javascript:;" >
                           <i class="fa fa-cog"></i>
-                          <span>Setting <span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
+                          <span>PENGATURAN <span style="padding-left:2px;"> <i class="fa fa-angle-down"></i></span></span>
                       </a>
                       <ul class="sub">
                           <li><a href="index.php?page=pengaturan">Toko</a></li>
