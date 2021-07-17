@@ -10,7 +10,7 @@
               <div class="row">
                   <div class="col-lg-9">
 					<div class="row" style="margin-left:1pc;margin-right:1pc;">
-				  <h1>DASHBOARD</h1>
+				  <h1>HALAMAN UTAMA</h1>
 				  <hr>
 				  
 				  <?php 
